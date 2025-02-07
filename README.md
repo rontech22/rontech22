@@ -1,10 +1,15 @@
 ## Hi there 👋
 
 :books: :wrench: **Mechanical Engineer Student** (Almost done!)
-:bar_chart: **Data Engineer in progess**
+
+:chart_with_upwards_trend: **Data Engineer in progess**
+
 :soccer: **Loves Football**
+
 :guitar: **Guitar Player**
+
 :watch: **Watch Collector**
+
 :round_pushpin: **Colombia** 
 
 ### Contact
